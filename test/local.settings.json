@@ -1,0 +1,9 @@
+{
+  "IsEncrypted": false,
+  "Values": {
+    "AzureWebJobsStorage": "",
+    "APP_KIND": "workflowapp",
+    "ProjectDirectoryPath": "c:\\Users\\hmpsystem\\Desktop\\portfolio1",
+    "FUNCTIONS_WORKER_RUNTIME": "node"
+  }
+}
